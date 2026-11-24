@@ -1,0 +1,19 @@
+{
+  "name": "krishi-netra-frontend",
+  "version": "2.0.0",
+  "description": "KRISHI NETRA — Intelligent Agriculture & Pest Detection Studio with Real-Time AI Assistant",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "agriculture",
+    "pest-detection",
+    "ai-assistant",
+    "smart-farming",
+    "openai-responses-api"
+  ],
+  "author": "KRISHI NETRA",
+  "license": "ISC"
+}
